@@ -17,7 +17,7 @@
 // MAGIC * [https://nz.linkedin.com/in/raazesh-sainudiin-45955845](https://nz.linkedin.com/in/raazesh-sainudiin-45955845) 
 // MAGIC * [Raaz's academic CV](https://lamastex.github.io/cv/) 
 // MAGIC 
-// MAGIC The course is being assisted by Tilo Wiklund and Dan Starngberg.
+// MAGIC The course is being assisted by Tilo Wiklund and Dan Strängberg.
 
 // COMMAND ----------
 
